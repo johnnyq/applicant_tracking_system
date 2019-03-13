@@ -1,0 +1,22 @@
+body {
+  font-size: .875rem;
+}
+
+.wrapper {
+  position: relative;
+  width: 750px;
+  height: 200px;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.signature-pad {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width:750px;
+  height:200px;
+  background-color: white;
+}
